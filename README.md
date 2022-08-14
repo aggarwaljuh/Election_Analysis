@@ -1,6 +1,8 @@
 # Election_Analysis
 ## Purpose
 
+The purpose of this analysis was to take election data and agregate it to determine who won the election and what counties contrubited most to that win. It can also help determine which counties have the highest rates of voting in general, helping future canidates in targeted campaigning. 
+
 ## Election Audit Results:
 ### How many votes were cast in this congressional election?
 
@@ -18,6 +20,20 @@ The three canadates were Charles Casper Stockham (85,213 votes and 23.0%), Diana
 
 Diana DeGette won the election. Their vote count was 272,892 with a percentage of 73.8%.
 
+
+Data from the terminal:
+
+![terminaldata.png](Resources/terminaldata.png)
+
+Data from the txt: 
+
+![txtdata.png](Resources/txtdata.png)
+
 ## Election Audit Summary
+This code can be used to determine who won an election and where the highest number of votes were coming from. 
+
+A modification can be a more detailed analysis, trying to determine how each county voted. Which means we would determine the rates of each canidate in each county. This is benifical as in the future canidates may be able to do more pointed campaigning. 
+
+This script can be modified to provide other characteristics, instead of just county and canidate. These characteristics can be any form of demographic data (race, sex, age, ect.) or who the individual had previously voted for, assuming that this data is in the original data set. 
 
 
