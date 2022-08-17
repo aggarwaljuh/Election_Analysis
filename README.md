@@ -23,7 +23,7 @@ Diana DeGette won the election. Their vote count was 272,892 with a percentage o
 
 Data from the terminal:
 
-![terminaldata.png](Resources/terminaldata.png)
+![TerminalData.png](Resources/TerminalData.png)
 
 Data from the txt: 
 
